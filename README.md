@@ -1,4 +1,24 @@
 javascript
-==========
-i know github is a website that im just getting use to, but see a lot of learning coming out from it at the end
+<!DOCTPE html>
+<html>
+<body>
+
+<h1> m first javascript </h1>
+
+<p> click date to display current day, date, and time </p>
+
+button type= "button" onclick= "myFunction" () ">Date </button>
+
+<p id= "demo"> </p>
+
+<script>
+
+function myFuncton() {
+  document.getElementByld("demo").innerHTML = date();
+}
+</date>
+
+</body>
+</html>
+  
 
